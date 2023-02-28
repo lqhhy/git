@@ -10,6 +10,7 @@ public class hello {
         System.out.println("你好！git");
         System.out.println("你好！hot-fix");
         System.out.println("master!!!");
+        System.out.println("hot-fix");
 
     }
 }
